@@ -19,11 +19,13 @@
 ##
 
 <div>
-  <a hraf="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a hraf="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a hraf="edwardo.xavier@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a hraf="https://www.linkedin.com/in/eduardo-n-b4971a1b3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a hraf="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a hraf="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a hraf="" target="_blank"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" target="_blank"></a>
 <div/>
+
+##
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EduardoXavier16&bg_color=033a34&color=ffffff&line=9fc686&point=241e1e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
