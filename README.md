@@ -1,8 +1,8 @@
+<div align="center">
 ### Hi 👋 I'm Eduardo Xavier!
 
 - 🌱 I'm currently studying to be a frontend engineer!
 
-<div>
   <img align="center" alt="Edu-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Edu-ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="center" alt="Edu-jsx" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
