@@ -1,26 +1,19 @@
-### Hi 👋 I am Eduardo Xavier!
+### Hi 👋 I'm Eduardo Xavier!
 
-- 🌱 I’m currently learning JavaScript and Reactjs!
-
-##
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoXavier16&count_private=true&show_icons=true&theme=merko"/>
-<a href="https://github.com/EduardoXavier16">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EduardoXavier16" />
-</a>
-<div/>
-
-##
+- 🌱 I'm currently studying to be a frontend engineer!
 
 <div>
   <img align="center" alt="Edu-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Edu-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Edu-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Edu-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Edu-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Edu-js" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Edu-ts" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Edu-jsx" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Edu-html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Edu-css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Edu-sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
 <div/>
+
+##
+
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoXavier16&count_private=true&show_icons=true&theme=dark"/>
 
 ##
 
@@ -31,6 +24,7 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" target="_blank"></a>
 <div/>
+
 
 ##
 
