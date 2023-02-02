@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/EduardoXavier16">
-  <img height="150em" src="https://github-readme-stars.vercel.app/api?username=EduardoXavier16$show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stars.vercel.app/api?username=EduardoXavier16&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stars.vercel.app/api/top-langs/?username=EduardoXavier16&layout=compact&langs_count=16&theme=merko"/>
 <div/>
 <div>
