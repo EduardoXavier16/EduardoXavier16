@@ -25,3 +25,5 @@
   <a hraf="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a hraf="" target="_blank"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white" target="_blank"></a>
 <div/>
+
+![snake_gif](https://github.com/EduardoXavier16/EduardoXavier16/blob/output/github-contribution-grid-snake.svg)
